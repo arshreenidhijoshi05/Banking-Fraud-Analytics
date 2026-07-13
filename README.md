@@ -4,7 +4,7 @@ An end-to-end Power BI dashboard that analyzes banking transaction data to ident
 
 ---
 
-# Project Highlights
+## Project Highlights
 
 - End-to-end Fraud Analytics Dashboard
 - Executive KPI Dashboard
@@ -18,7 +18,7 @@ An end-to-end Power BI dashboard that analyzes banking transaction data to ident
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 1. Project Overview
 2. Business Problem
@@ -36,7 +36,7 @@ An end-to-end Power BI dashboard that analyzes banking transaction data to ident
 
 ---
 
-# 1. Project Overview
+## 1. Project Overview
 
 Financial institutions process thousands of transactions every day, making fraud detection a critical business requirement. Detecting suspicious activities quickly helps reduce financial losses while improving customer trust.
 
@@ -44,7 +44,7 @@ This project develops an end-to-end Fraud Analytics Dashboard in Power BI that e
 
 ---
 
-# 2. Business Problem
+## 2. Business Problem
 
 Fraudulent financial transactions lead to significant financial losses and operational risks.
 
@@ -61,7 +61,7 @@ This dashboard answers these questions through interactive Power BI visualizatio
 
 ---
 
-# 3. Project Objectives
+## 3. Project Objectives
 
 - Monitor overall fraud exposure
 - Measure fraud rate and fraud losses
@@ -75,7 +75,7 @@ This dashboard answers these questions through interactive Power BI visualizatio
 
 ---
 
-# 4. Dataset Overview
+## 4. Dataset Overview
 
 The project uses a simulated banking transaction dataset containing transaction-level fraud information.
 
@@ -100,7 +100,7 @@ The project uses a simulated banking transaction dataset containing transaction-
 
 ---
 
-# 5. Dashboard Architecture
+## 5. Dashboard Architecture
 
 ```
 Raw Dataset
@@ -132,7 +132,7 @@ Business Recommendations
 
 ---
 
-# 6. Tools Used
+## 6. Tools Used
 
 - Power BI Desktop
 - Power Query
@@ -142,7 +142,7 @@ Business Recommendations
 
 ---
 
-# 7. Skills Demonstrated
+## 7. Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -158,7 +158,7 @@ Business Recommendations
 
 ---
 
-# 8. Dashboard Pages
+## 8. Dashboard Pages
 
 ## Introduction
 
@@ -228,7 +228,7 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ---
 
-# 9. Key KPIs
+## 9. Key KPIs
 
 - Total Transactions
 - Fraud Transactions
@@ -242,7 +242,7 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ---
 
-# 10. Business Insights
+## 10. Business Insights
 
 - Mobile App transactions contribute the largest share of fraudulent activity.
 - Critical anomaly transactions exhibit exceptionally high fraud rates.
@@ -253,7 +253,7 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ---
 
-# 11. Dashboard Preview
+## 11. Dashboard Preview
 
 ## Executive Dashboard
 
@@ -285,7 +285,7 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ---
 
-# 12. Project Setup
+## Project Setup
 
 1. Clone the repository.
 2. Open the `.pbix` file using Power BI Desktop.
@@ -294,7 +294,7 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ---
 
-# 13. Repository Structure
+## Repository Structure
 
 ```text
 powerbi-fraud-analytics-dashboard/
