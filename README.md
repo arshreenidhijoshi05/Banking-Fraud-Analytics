@@ -257,31 +257,31 @@ Summarizes findings from all dashboard pages and provides actionable recommendat
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/overview.png)
+<img width="977" height="620" alt="Screenshot 2026-07-13 230245" src="https://github.com/user-attachments/assets/62a87a66-b690-414b-8df9-13daf1c20765" />
 
 ---
 
 ## Fraud Driver Analysis
 
-![Fraud Driver Analysis](images/fraud-driver-analysis.png)
+<img width="977" height="617" alt="Screenshot 2026-07-13 230300" src="https://github.com/user-attachments/assets/5529f630-6140-422a-8f8e-997b1c1d80d4" />
 
 ---
 
 ## Risk Segmentation
 
-![Risk Segmentation](images/risk-segmentation.png)
+<img width="977" height="621" alt="Screenshot 2026-07-13 230313" src="https://github.com/user-attachments/assets/d8ed6915-55dd-4536-8666-d093176d0d69" />
 
 ---
 
 ## Investigation Workbench
 
-![Detailed Analysis](images/detailed-analysis.png)
+<img width="978" height="620" alt="Screenshot 2026-07-13 230326" src="https://github.com/user-attachments/assets/0b967603-ddc1-4a38-9c2b-eca5de16d472" />
 
 ---
 
 ## Business Recommendations
 
-![Business Recommendations](images/business-recommendations.png)
+<img width="983" height="617" alt="Screenshot 2026-07-13 230341" src="https://github.com/user-attachments/assets/64987033-1552-4047-8919-cd8bf7422d25" />
 
 ---
 
